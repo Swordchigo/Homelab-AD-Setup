@@ -22,6 +22,7 @@ This project simulates a small enterprise network by deploying a Windows Server 
 
 ## Screenshots
 VM Network Diagram
+
 <img width="711" height="481" alt="Homelab-AD-Setup Diagram drawio" src="https://github.com/user-attachments/assets/49dc5cf9-7f71-4866-86b3-607fea7a63db" />
 
 AD user list
