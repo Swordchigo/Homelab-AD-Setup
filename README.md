@@ -27,5 +27,4 @@ VM Network Diagram
 
 AD user list
 
-GPOs here
-
+<img width="556" height="900" alt="image" src="https://github.com/user-attachments/assets/4b189317-9630-4b13-8993-3ae7f03ec947" />
