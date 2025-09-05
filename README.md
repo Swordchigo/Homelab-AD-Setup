@@ -12,11 +12,10 @@ This project simulates a small enterprise network by deploying a Windows Server 
 ## Key Tasks
 - Installed and configured Active Directory Domain Services (AD DS).
 - Created Organizational Units (OUs), users, and groups.
-- Applied Group Policy Objects (GPOs) for password policies and desktop restrictions.
 - Tested domain logins and resource access.
 
 ## Project Value
-- Hands-on experience with AD management and GPOs.
+- Hands-on experience with AD management.
 - Replicates real-world IT support and security administration tasks.
 - Serves as a foundation for future cybersecurity lab projects.
 
@@ -25,6 +24,6 @@ VM Network Diagram
 
 <img width="711" height="481" alt="Homelab-AD-Setup Diagram drawio" src="https://github.com/user-attachments/assets/49dc5cf9-7f71-4866-86b3-607fea7a63db" />
 
-AD user list
+AD user list (Users Shown are not Real People)
 
 <img width="556" height="900" alt="image" src="https://github.com/user-attachments/assets/4b189317-9630-4b13-8993-3ae7f03ec947" />
