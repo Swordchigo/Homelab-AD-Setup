@@ -24,6 +24,6 @@ VM Network Diagram
 
 <img width="711" height="481" alt="Homelab-AD-Setup Diagram drawio" src="https://github.com/user-attachments/assets/49dc5cf9-7f71-4866-86b3-607fea7a63db" />
 
-AD user list (Users Shown are not Real People)
+AD user list created with Powershell Script
 
 <img width="556" height="900" alt="image" src="https://github.com/user-attachments/assets/4b189317-9630-4b13-8993-3ae7f03ec947" />
